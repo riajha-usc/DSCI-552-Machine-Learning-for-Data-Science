@@ -1,0 +1,16 @@
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+# macOS
+.DS_Store
+
+# Raw download archives (data is committed unzipped under hw-*/data/)
+*.zip
+
+# Blank assignment templates
+Last_First_*.ipynb
