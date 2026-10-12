@@ -14,3 +14,5 @@ __pycache__/
 
 # Blank assignment templates
 Last_First_*.ipynb
+hw-3/AReM/
+!hw-3/AReM.zip
